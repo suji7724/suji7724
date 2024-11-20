@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
--    i want to take revenge with on person
+- i am a college student
+- i learned python
+- 
 
 <!---
 suji7724/suji7724 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
